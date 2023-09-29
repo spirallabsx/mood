@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://itsmoodhouse.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://itsmoodhouse.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://itsmoodhouse.com/collections/all.atom"/>
+  <title>mood house</title>
+  <updated>2023-07-04T14:23:38-07:00</updated>
+  <author>
+    <name>mood house</name>
+  </author>
+  <entry>
+    <id>https://itsmoodhouse.com/products/8370919702811</id>
+    <published>2023-07-04T14:23:38-07:00</published>
+    <updated>2023-07-04T14:23:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://itsmoodhouse.com/products/happier-than-ever"/>
+    <title>happier than ever</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/8109/6987/files/Untitleddesign_3_b6537806-4c6e-4efb-8afd-e35304b93e7c.jpg?v=1688505844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00 - 14.00
+            <a href="https://itsmoodhouse.com/products/happier-than-ever">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>wish I could explain it better - write yourselves a letter and now you're happier than ever</p>
+<h4><span data-mce-fragment="1">details</span></h4>
+<ul>
+<li>instant access to editable templates</li>
+<li>text it to your guests - size optimized for messaging apps</li>
+<li>or print on 5 x 7 inch cards - high quality graphics</li>
+<li>SAVE and buy bundled invite and lineup templates</li>
+<li>detailed instructions are below</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370919702811</id>
+      <title>invite only</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370919702811</id>
+      <title>lineup only</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370919702811</id>
+      <title>invite + lineup bundle</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itsmoodhouse.com/products/8370916786459</id>
+    <published>2023-07-04T14:21:54-07:00</published>
+    <updated>2023-07-04T14:21:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://itsmoodhouse.com/products/party-in-the-usa-boot"/>
+    <title>party in the usa - boot</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/8109/6987/files/1_d62dd524-972f-495b-97c1-c4c3ca7305cb.jpg?v=1688506564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00 - 14.00
+            <a href="https://itsmoodhouse.com/products/party-in-the-usa-boot">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>walkin' downtown in your brand new boots, then the DJ drops your favorite tune. you know how the rest goes (like yeah)</p>
+<h4><span data-mce-fragment="1">details</span></h4>
+<ul>
+<li>instant access to editable templates</li>
+<li>text it to your guests - size optimized for messaging apps</li>
+<li>or print on 5 x 7 inch cards - high quality graphics</li>
+<li>SAVE and buy bundled invite and lineup templates</li>
+<li>detailed instructions are below</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370916786459</id>
+      <title>invite only</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370916786459</id>
+      <title>lineup only</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370916786459</id>
+      <title>invite + lineup bundle</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itsmoodhouse.com/products/8370910888219</id>
+    <published>2023-07-04T14:17:55-07:00</published>
+    <updated>2023-07-04T14:17:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://itsmoodhouse.com/products/party-in-the-usa-flag"/>
+    <title>party in the usa - flag</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/8109/6987/files/1.jpg?v=1688505667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00 - 14.00
+            <a href="https://itsmoodhouse.com/products/party-in-the-usa-flag">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ain't no party like an american throwdown with your girls by your side. don't forget to move your hips (like yeah)</p>
+<h4><span data-mce-fragment="1">details</span></h4>
+<ul>
+<li>instant access to editable templates</li>
+<li>text it to your guests - size optimized for messaging apps</li>
+<li>or print on 5 x 7 inch cards - high quality graphics</li>
+<li>SAVE and buy bundled invite and lineup templates</li>
+<li>detailed instructions are below</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370910888219</id>
+      <title>invite only</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370910888219</id>
+      <title>lineup only</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370910888219</id>
+      <title>invite + lineup bundle</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itsmoodhouse.com/products/8370910003483</id>
+    <published>2023-07-04T14:16:38-07:00</published>
+    <updated>2023-07-04T14:16:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://itsmoodhouse.com/products/midnights"/>
+    <title>midnights</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/8109/6987/files/Untitleddesign_9.jpg?v=1688505400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00 - 14.00
+            <a href="https://itsmoodhouse.com/products/midnights">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1" jsname="YS01Ge">a deep portal, time travel - find all </span><span data-mce-fragment="1" jsname="YS01Ge">the love to unravel. so the stories unfold in a weekend of midnights</span></p>
+<h4><span data-mce-fragment="1">details</span></h4>
+<ul>
+<li>instant access to editable templates</li>
+<li>text it to your guests - size optimized for messaging apps</li>
+<li>or print on 5 x 7 inch cards - high quality graphics</li>
+<li>SAVE and buy bundled invite and lineup templates</li>
+<li>detailed instructions are below</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370910003483</id>
+      <title>invite only</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370910003483</id>
+      <title>lineup only</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370910003483</id>
+      <title>invite + lineup bundle</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itsmoodhouse.com/products/8370905579803</id>
+    <published>2023-07-04T14:09:45-07:00</published>
+    <updated>2023-07-04T14:09:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://itsmoodhouse.com/products/desert-midnights"/>
+    <title>desert midnights</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/8109/6987/files/Untitleddesign_7.jpg?v=1688504987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00 - 14.00
+            <a href="https://itsmoodhouse.com/products/desert-midnights">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="UTF-8"><span data-mce-fragment="1">under moonlit skies, sand between toes, beats echo - Desert Midnights, where magic unfolds</span></p>
+<h4><span data-mce-fragment="1">details</span></h4>
+<ul>
+<li>instant access to editable templates</li>
+<li>text it to your guests - size optimized for messaging apps</li>
+<li>or print on 5 x 7 inch cards - high quality graphics</li>
+<li>SAVE and buy bundled invite and lineup templates</li>
+<li>detailed instructions are below</li>
+</ul>
+<p><span data-mce-fragment="1"><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370905579803</id>
+      <title>invite only</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370905579803</id>
+      <title>lineup only</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370905579803</id>
+      <title>invite + lineup bundle</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itsmoodhouse.com/products/8370901713179</id>
+    <published>2023-07-04T14:03:54-07:00</published>
+    <updated>2023-07-04T14:03:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://itsmoodhouse.com/products/disco-trip"/>
+    <title>disco trip</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/8109/6987/files/Untitleddesign_5.jpg?v=1688504636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00 - 14.00
+            <a href="https://itsmoodhouse.com/products/disco-trip">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="UTF-8"><span data-mce-fragment="1">hypnotic lights, kaleidoscopic sounds, minds take flight - Disco Trip, where reality bends and grooves</span></p>
+<h4><span data-mce-fragment="1">details</span></h4>
+<ul>
+<li>instant access to editable templates</li>
+<li>text it to your guests - size optimized for messaging apps</li>
+<li>or print on 5 x 7 inch cards - high quality graphics</li>
+<li>SAVE and buy bundled invite and lineup templates</li>
+<li>detailed instructions are below</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370901713179</id>
+      <title>invite only</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370901713179</id>
+      <title>lineup only</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370901713179</id>
+      <title>invite + lineup bundle</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itsmoodhouse.com/products/8370838929691</id>
+    <published>2023-07-04T13:10:41-07:00</published>
+    <updated>2023-07-04T13:10:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://itsmoodhouse.com/products/drunk-in-love"/>
+    <title>drunk in love</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/8109/6987/files/Untitleddesign_4.png?v=1688501443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00 - 14.00
+            <a href="https://itsmoodhouse.com/products/drunk-in-love">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="UTF-8"><span data-mce-fragment="1">love on the rocks, with cocktails in hand, stumbling heartbeats - you're drunk in love and chaos unfolds</span></p>
+<h4><span data-mce-fragment="1">details</span></h4>
+<ul>
+<li>instant access to editable templates</li>
+<li>text it to your guests - size optimized for messaging apps</li>
+<li>or print on 5 x 7 inch cards - high quality graphics</li>
+<li>SAVE and buy bundled invite and lineup templates</li>
+<li>detailed instructions are below</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370838929691</id>
+      <title>invite only</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370838929691</id>
+      <title>lineup only</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370838929691</id>
+      <title>invite + lineup bundle</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itsmoodhouse.com/products/8370837717275</id>
+    <published>2023-07-04T13:04:50-07:00</published>
+    <updated>2023-07-04T13:04:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://itsmoodhouse.com/products/lavender-haze"/>
+    <title>lavender haze</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/8109/6987/files/Untitleddesign_2.png?v=1688501092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00 - 14.00
+            <a href="https://itsmoodhouse.com/products/lavender-haze">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>are you a one-night or a wife? once you're here, you'll just wanna stay - in that lavender haze</p>
+<h4><span data-mce-fragment="1">details</span></h4>
+<ul>
+<li>instant access to editable templates</li>
+<li>text it to your guests - size optimized for messaging apps</li>
+<li>or print on 5 x 7 inch cards - high quality graphics</li>
+<li>SAVE and buy bundled invite and lineup templates</li>
+<li>detailed instructions are below</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370837717275</id>
+      <title>invite only</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370837717275</id>
+      <title>lineup only</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8370837717275</id>
+      <title>invite + lineup Bundle</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itsmoodhouse.com/products/8369261281563</id>
+    <published>2023-07-03T16:07:09-07:00</published>
+    <updated>2023-07-03T16:07:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://itsmoodhouse.com/products/desert-disco"/>
+    <title>desert disco</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0784/8109/6987/files/Untitleddesign_1.jpg?v=1688425897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00 - 14.00
+            <a href="https://itsmoodhouse.com/products/desert-disco">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="UTF-8"><span data-mce-fragment="1">glittering dunes, groovy beats, and neon lights. soak sun all day and dance all night at the desert disco.</span></p>
+<h4><span data-mce-fragment="1">details</span></h4>
+<ul>
+<li>instant access to editable templates</li>
+<li>text it to your guests - size optimized for messaging apps</li>
+<li>or print on 5 x 7 inch cards - high quality graphics</li>
+<li>SAVE and buy bundled invite and lineup templates</li>
+<li>detailed instructions are below</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8369261281563</id>
+      <title>invite only</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8369261281563</id>
+      <title>lineup only</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://itsmoodhouse.com/products/8369261281563</id>
+      <title>invite + lineup bundle</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
